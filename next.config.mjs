@@ -2,6 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   output: "export",
+  basePath: "/harness-share",
   images: { unoptimized: true },
 };
 
